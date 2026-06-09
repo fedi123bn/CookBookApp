@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_all"
+        android:title="Recettes"
+        android:icon="@android:drawable/ic_menu_today"/>
+
+    <item
+        android:id="@+id/nav_favorites"
+        android:title="Favoris"
+        android:icon="@android:drawable/btn_star_big_on"/>
+
+    <item
+        android:id="@+id/nav_add"
+        android:title="Ajouter"
+        android:icon="@android:drawable/ic_input_add"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Déconnexion"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"/>
+
+</menu>
